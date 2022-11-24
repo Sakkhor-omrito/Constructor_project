@@ -71,5 +71,4 @@ $(window).on('scroll',function(){
 
  
 
-  let utterance = new SpeechSynthesisUtterance("sakkhor majumder omrtia!");
-speechSynthesis.speak(utterance);
+
